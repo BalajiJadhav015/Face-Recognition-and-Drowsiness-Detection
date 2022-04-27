@@ -8,5 +8,8 @@ Face recognition and drowsiness detection
 The definition of face detection refers to computer technology that is able to identify the presence of people’s faces within digital images. Face recognition describes a biometric technology that goes way beyond recognizing when a human face is present. It actually attempts to establish whose face it is. The process works using a computer application that captures a digital image of an individual’s face. The entire architecture is divided into 6 modules.Face Detection,Eye Detection,Face Tracking,Eye Tracking,Drowsiness Detection,Distraction Detection 
 
 ## Conclusion
-## Due to distance education students are not getting motivated with traditional way of teaching with pen and paper it is more impactful. With the help of this model we will able to connect to students more precisely and with more effectiveness. As soon as student get distracted it will come to know to us. we can take actions according to that with the help of these systems. It will be beneficial to both students as well as teachers. With less number of input from students we can detect students and drowsiness. Education system will take new steps towards future with this.
+Due to distance education students are not getting motivated with traditional way of teaching with pen and paper it is more impactful. With the help of this model we will able to connect to students more precisely and with more effectiveness. 
+As soon as student get distracted it will come to know to us. we can take actions according to that with the help of these systems. It will be beneficial to both students as well as teachers.
+With less number of input from students we can detect students and drowsiness. Education system will take new steps towards future with this.
+
 ## This application can be run througd 'streamlit rum app.py' 
