@@ -12,5 +12,8 @@ Due to distance education students are not getting motivated with traditional wa
 As soon as student get distracted it will come to know to us. we can take actions according to that with the help of these systems. It will be beneficial to both students as well as teachers.
 With less number of input from students we can detect students and drowsiness. Education system will take new steps towards future with this.
 
+To accesses the other files follow the link.
+https://drive.google.com/drive/folders/1c9jT9r7wyb-aayDlF1hGSGRWi9V-kD5L?usp=sharing
+
 ## This application can be run through 'streamlit rum app.py' 
 Any recommendations are welcomed...
