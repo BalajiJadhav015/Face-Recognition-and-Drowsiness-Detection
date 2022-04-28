@@ -16,5 +16,5 @@ To accesses the other files follow the link.
 
 https://drive.google.com/drive/folders/1c9jT9r7wyb-aayDlF1hGSGRWi9V-kD5L?usp=sharing
 
-## This application can be run through 'streamlit rum app.py' 
+## This application can be run through 'streamlit run app.py' 
 Any recommendations are welcomed...
