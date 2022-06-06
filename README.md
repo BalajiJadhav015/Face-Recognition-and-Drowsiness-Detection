@@ -3,7 +3,7 @@ The Indian education landscape has been undergoing rapid changes for the past 10
 
 Due to distance education there is a gap created between student and teacher with less interaction and no physical presence grasping of the students becomes very less. To tackle this problem we can accesses to the video and images of images and we will come to know which student is alert in class.
 
-Face recognition and drowsiness detection  
+## Face recognition and drowsiness detection  
 
 The definition of face detection refers to computer technology that is able to identify the presence of people’s faces within digital images. Face recognition describes a biometric technology that goes way beyond recognizing when a human face is present. It actually attempts to establish whose face it is. The process works using a computer application that captures a digital image of an individual’s face. The entire architecture is divided into 6 modules.Face Detection,Eye Detection,Face Tracking,Eye Tracking,Drowsiness Detection,Distraction Detection 
 
